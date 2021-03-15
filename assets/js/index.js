@@ -33,7 +33,7 @@ function getUserInfo() {
 }
 
 function readerAvatar(user) {
-    console.log(user.username);
+    // console.log(user.username);
 
     let name = user.nickname || user.username;
 
